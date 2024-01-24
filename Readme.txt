@@ -4,6 +4,7 @@ pip install selenium
 pip install PyQt5
 after that you need to download a Chrome Wbdriver from this website:
 https://chromedriver.chromium.org/downloads
+For Current Versions (https://googlechromelabs.github.io/chrome-for-testing/) as of 2024
 after you dowload it you need to add webdirver's location to PATH
 (Window Search Bar Write-> Path->Environment Variables->User variables for (your username)--> Click Path And Edit->Click New And Paste your webdriver's location->Click ok)
 or you can watch the Youtube Video:
