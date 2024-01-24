@@ -18,6 +18,7 @@ pip install PyQt5
 yazarak indirin.
 Bundan sonra Chrome Webdriver'ı şu siteden indirin
 https://chromedriver.chromium.org/downloads
+Güncel Sürümler için (https://googlechromelabs.github.io/chrome-for-testing/) 2024 itibariyle
 Daha sonra WebDriver'ın konumunu PATH olarak ekleyin
 (Window Search Bar Write-> Path->Environment Variables->User variables for (your username)--> Click Path And Edit->Click New And Paste your webdriver's location->Click ok)
 Parantez içindeki talimatları yaparak ekleyebilirsiniz.
